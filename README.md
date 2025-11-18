@@ -1,5 +1,7 @@
 # 🗺️ Google Maps Review Scraper & Sentiment Analysis
 
+Note: the data in `locations` and and `responses` are for demonstration purposes only, actual data we used in the project is stored in Google Drive due to its large size.
+
 ## 📖 Overview
 
 This project allows you to **scrape reviews** from Google Maps for specific businesses and perform **sentiment analysis** on the collected data.
