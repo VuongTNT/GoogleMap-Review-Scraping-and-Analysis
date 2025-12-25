@@ -1,0 +1,742 @@
+{
+    "data": {
+        "business_id": "0x4887839ea8edfa27:0x31aec03c8bd7671d",
+        "phone_number": "+441315107325",
+        "name": "Eden Coffee House",
+        "full_address": "Eden Coffee House, 6 Buccleuch St, Melrose TD6 9LD, United Kingdom",
+        "latitude": 55.5985978,
+        "longitude": -2.7199324,
+        "review_count": 187,
+        "rating": 4.2,
+        "timezone": "Europe/London",
+        "website": "facebook.com",
+        "website_full": "https://www.facebook.com/edencoffeehousemelrose/",
+        "place_id": "ChIJJ_rtqJ6Dh0gRHWfXizzArjE",
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x4887839ea8edfa27:0x31aec03c8bd7671d",
+        "types": [
+            "Cafe"
+        ],
+        "price_level": "£10–20",
+        "working_hours": [],
+        "is_permanently_closed": false,
+        "is_temporarily_closed": false,
+        "state": null,
+        "photos": [
+            {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx3X8JwI99wKH40KDyP72Su138u-yFisKzc66pgAeiC2iG_6tTy_bXYvQFeHSTr8Ty93XKnlUA8Wg_zPi_K5fjdzFu0DENmOJzy7bV6OySnkJlsNOm78fVllI5bCkOld2SNQm7uULNhLing=w397-h298-k-no",
+                "description": "All"
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz_pvjHOs3_koJ80MDAZIVjlkgfGVDbR3DHVLmeYKGm7avW2UdhNKizAkOYNs4-Bgbg0n3lc41N5zTn8Tc8Pf_pU8a3MRAtTeVQjPLSbFTgVGQOul68U5yapOND_gz8YembsdEy41KdK8Ud=w224-h298-k-no",
+                "description": "Latest"
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/p/AF1QipOOqyzkipMnrYjzxucUYYqhzp8ibWFCgo4wlpu7=w447-h298-k-no",
+                "description": "Food & drink"
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSysVCLRGpiQx9BCBUCuAEgyyrJkW0YELB3UjxgOxaruk6MGFPngXNFWkKckVf_AGB2vOLubO5EeFzNtW3frVUlmH1bL9BeJWYLIl_4aVKbfPmdSzGH-RQERqeeblvvpmI_ODX4q=w397-h298-k-no",
+                "description": "Vibe"
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSygcARaKU14MTgvLWjUF09kmBhdD2yIhLBtkZIClAHbMfQv0X94JRVAWjilgvQ2WM9UFI7vk7RFNYLEUdh0pbbz65pLwse-1G0mklm9UnnovQ5Sxjgn9COyooo759fpZyZ0cL58RjDmx_zu=w445-h298-k-no",
+                "description": "Coffee"
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/p/AF1QipMI9n2HBgDFzhAL1Y7RKvk0iQTcWGa5NUE4sIjN=w447-h298-k-no",
+                "description": "By owner"
+            },
+            {
+                "url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QQYQ8H7rzttmqO_3UI5g1A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=326.27118&pitch=0&thumbfov=100",
+                "description": "Street View & 360°"
+            }
+        ],
+        "description": [],
+        "reviews": [
+            {
+                "user_name": "Valerie Hinchliffe",
+                "user_total_reviews": 1189,
+                "user_total_photos": 6156,
+                "user_avatar": "https://lh3.googleusercontent.com/a/ACg8ocJsT-5NtXCETBaIXuBXzIz21uPYwgXo-67BI9-txeTU_EnMsg=s120-c-rp-mo-ba7-br100",
+                "user_link": "https://www.google.com/maps/contrib/114003712906506136828?hl=en",
+                "iso_date": "2025-11-09 11:49:57",
+                "iso_date_timestamp": 1762688996507369,
+                "iso_date_of_last_edit": "2025-11-09 14:04:51",
+                "iso_date_of_last_edit_timestamp": 1762697090966092,
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwR09GUmpTbU5TWjNObFgyaHJhR05ZV0ZSMFdYYxAB",
+                "review_time": "a week ago",
+                "review_timestamp": 1762697090966092,
+                "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xwR09GUmpTbU5TWjNObFgyaHJhR05ZV0ZSMFdYYxAB!2m1!1s0x0:0x31aec03c8bd7671d!3m1!1s2@1:CAIQACodChtycF9oOlpGOFRjSmNSZ3NlX2hraGNYWFR0WXc%7C0d38y1t_LLE%7C?hl=en",
+                "review_text": "Had lunch here on what turned out to be a great recommendation by the ticket clerk at the abbey. Just across the road from the abbey and right next to a car park, this café had plenty of outside tables and a clean, pleasant interior with a choice of seating. Loved the Halloween decorations! Very dog friendly. It was busy when I arrived, but the staff could not have been more welcoming and friendly, and I didn't have to wait long for my lunch. Good choice of breakfasts and light meals on the menu, with tempting vegetarian and vegan options, and some delicious looking cakes displayed at the counter. I had limited time and just wanted something quick and light, so I ordered the soup of the day (sweet potato, chilli and coriander) and a homemade cheese scone, with a pot of tea. The soup was piping hot, wonderful blend of flavours without being too spicy. The large scone was very fresh and just melted in my mouth! Generous amount of butter too! Prices were very reasonable given the high quality of the food. Would certainly have lunch here again if I return to Melrose.",
+                "review_photos": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38s3GW8hobVMg20PyEz3b0cTSIF5nS98qK3giOsDEtAHpgu2SYrIa1WF_Wibj47fXrXm4WC_6xW6cteq7-cNRPr2_9Hv1dvJcFdFujNZauJ1Cy0_-rNoFEi1JJ2NErTpxi7mwUsXYDu1rwg",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vR4rSds6AiWsAAJGujGQICHJ8tjovc1IRS39VoSyOGPrQTkEwVzySvTWrP9Kv0gSmJJQgKO7dpDgv2clq6NX4DRP96uESYICw7uqLNM9eLmnzAdXXo1Kjblcza-NKK1RO2mnZGXZqKMoud",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38tEpDsL9GaAPFJlcVOlI7YPn_sZK7532tO62S8WmTvHmYysjHrJSbozHmFpUIYKrAK2jQbjh48p91_SZ4GqwKVpB8ctHJya0ZrLY4dciTuPvu5PfnA6qL3YYdRJwSehX4AlqI2ivLn096M"
+                ],
+                "business_response_text": null,
+                "review_services": {
+                    "Food": 5,
+                    "Service": 5,
+                    "Atmosphere": 5
+                },
+                "translations": {
+                    "en": "Had lunch here on what turned out to be a great recommendation by the ticket clerk at the abbey. Just across the road from the abbey and right next to a car park, this café had plenty of outside tables and a clean, pleasant interior with a choice of seating. Loved the Halloween decorations! Very dog friendly. It was busy when I arrived, but the staff could not have been more welcoming and friendly, and I didn't have to wait long for my lunch. Good choice of breakfasts and light meals on the menu, with tempting vegetarian and vegan options, and some delicious looking cakes displayed at the counter. I had limited time and just wanted something quick and light, so I ordered the soup of the day (sweet potato, chilli and coriander) and a homemade cheese scone, with a pot of tea. The soup was piping hot, wonderful blend of flavours without being too spicy. The large scone was very fresh and just melted in my mouth! Generous amount of butter too! Prices were very reasonable given the high quality of the food. Would certainly have lunch here again if I return to Melrose."
+                },
+                "review_rate": 5,
+                "review_cursor": "CAESY0NBRVFBUnBFUTJwRlNVRlNTWEJEWjI5QlVEZGZURUZCVFY5ZlgxOWZSV2hEYm1SeFJFcFFlREJNUlhoSFJVY3lPRUZCUVVGQlIyZHVPVEpQT0VOYVdtTlJOa2RyV1VGRFNVRQ=="
+            },
+            {
+                "user_name": "Scott Andrew",
+                "user_total_reviews": 7,
+                "user_total_photos": 5,
+                "user_avatar": "https://lh3.googleusercontent.com/a/ACg8ocIGDN7SiR5ZHxXfoY1P9_UtvKrreOIfWVsf3xb15opqoRTRJQ=s120-c-rp-mo-br100",
+                "user_link": "https://www.google.com/maps/contrib/109722426977244826938?hl=en",
+                "iso_date": "2025-09-06 14:09:10",
+                "iso_date_timestamp": 1757167750039773,
+                "iso_date_of_last_edit": "2025-09-06 14:15:21",
+                "iso_date_of_last_edit_timestamp": 1757168121284626,
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCM1kxaFlNa0V3YkdsaVFqWnhkMWhzUlZWTExWRRAB",
+                "review_time": "2 months ago",
+                "review_timestamp": 1757168121284626,
+                "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xCM1kxaFlNa0V3YkdsaVFqWnhkMWhzUlZWTExWRRAB!2m1!1s0x0:0x31aec03c8bd7671d!3m1!1s2@1:CAIQACodChtycF9oOlB3Y1hYMkEwbGliQjZxd1hsRVVLLVE%7C0cj36tFxkpZ%7C?hl=en",
+                "review_text": "Eden was the first restaurant we tried during our week’s holiday in Melrose, and after trying a few other places, we ended up coming back here every day of our stay. The food was consistently delicious, the coffee was perfect every time, the service was outstanding, and the atmosphere bustling but calm. The Eden breakfast is very highly recommended - probably one of the best breakfasts we’ve ever had, anywhere. So too are the cakes - simply delicious.",
+                "review_photos": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38sr11raHj0H85csrGssLBhEWfz_-GqcZ74kVPpHK1kftyuoZgbzimUYscUZkIBgXCc_cPDEYUNTJxv2yZb-vk1uo1QVkTS8QfVwYiXA8nwHqNi-zzkc647VYxMe4aw1xIDzzzlgMdNcFdYT",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38tGCit5RfKNggpXYSiLqMpPEnLJHFt7EgcgK9QvekKTNRXcgOg6clci-12Nstv5dqf5t8aVqdZNtS73dtslDbDW3HEAUXSS6sLcc_8CT18DmeyFy6R2KbOmwuJ2KHVswc80IBsLKDVdoHW3",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38uSSwxAzGjXUtN7WqM1_z3o_QDIxRipwlDRKadsFHiJ966-8T9VsXMeA71BAE-itBf4Us52fif7qqDxR0KYt7a3y4YkaSI1thwkiqmFMcLVGOf3TPqQi2RlJvPnmIaqh3tRpdywlWPpfJny",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vY_8fgJHlRlU928GRwHUGWe8j3yO1pDN08vZQENN9rsZ24Us4j-QT3c_G3fZY73O6cAPI1sTDREBRsNo_X6pJnlrm_F4VHFUr_hK1EdxKRHoeKa4kbczRmsBPMgo_pItzkr0Qcl6Uwkbbt",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38uTQ8z7Vvdjo4KcWeWA97KN90MY5c7vj08lBoRW6jecdIw-HzJ4_S3_Lm3F9F3MMDO4ZeeJuoaPX6ds0VBWn4UlFEif3DFdy3FdgeBHzsno5wnh2dI5NXTxHaCBGitxDBriaM-Dm1uz3nQq"
+                ],
+                "business_response_text": null,
+                "review_services": {
+                    "Meal type": "Breakfast",
+                    "Price per person": "£10–20",
+                    "Food": 5,
+                    "Service": 5,
+                    "Atmosphere": 5,
+                    "Reservation": "Reservations not required",
+                    "Wait time": "No wait"
+                },
+                "translations": {
+                    "en": "Eden was the first restaurant we tried during our week’s holiday in Melrose, and after trying a few other places, we ended up coming back here every day of our stay. The food was consistently delicious, the coffee was perfect every time, the service was outstanding, and the atmosphere bustling but calm. The Eden breakfast is very highly recommended - probably one of the best breakfasts we’ve ever had, anywhere. So too are the cakes - simply delicious."
+                },
+                "review_rate": 5,
+                "review_cursor": "CAESY0NBRVFBaHBFUTJwRlNVRlNTWEJEWjI5QlVEZGZURUZCTms1ZlgxOWZSV2hEUmxjMVRFVjNNVVl0TkhaR2FYTXlhMEZCUVVGQlIyZHVPVEpRUlVOYWRVTmxVMnB6V1VGRFNVRQ=="
+            },
+            {
+                "user_name": "Platinum Fx",
+                "user_total_reviews": 5,
+                "user_total_photos": 3,
+                "user_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUdnGycZvtXAncfTvaI78PvuydVt8vgvGVq2O_N0QDTJ9SUbuU=s120-c-rp-mo-br100",
+                "user_link": "https://www.google.com/maps/contrib/113287119249257662895?hl=en",
+                "iso_date": "2025-07-16 10:31:33",
+                "iso_date_timestamp": 1752661892954515,
+                "iso_date_of_last_edit": "2025-07-16 10:31:33",
+                "iso_date_of_last_edit_timestamp": 1752661892954515,
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrNE5UUldUVkpUUjFCMGMydG5iekZUV0VsUFEzYxAB",
+                "review_time": "4 months ago",
+                "review_timestamp": 1752661892954515,
+                "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xrNE5UUldUVkpUUjFCMGMydG5iekZUV0VsUFEzYxAB!2m1!1s0x0:0x31aec03c8bd7671d!3m1!1s2@1:CAIQACodChtycF9oOlk4NTRWTVJTR1B0c2tnbzFTWElPQ3c%7C0cSry3stAvP%7C?hl=en",
+                "review_text": "We called in for an impromptu wee brunch after seeing lots of great recommendations on the gluten free forums and my oh my we were not disappointed!!!  First of all the Gluten free menu was SO BIG!! so much choice!! I ordered eggs Benedict on avocado toast, And it was unreal!!! So so so good the bread did not taste like the normal gf bread you get!  I could eat it every day!\n\nMy partner got the pancakes and the look stunning served with berries and maple syrup, I genuinely thought he was gunna lick the plate clean!!!!  He said they were so moreish!!\n\nThe staff were lovely, our waiter was called Paul I think, he was funny friendly and very attentive and informative, he had great knowledge of the menu items and was very helpful.\n\nOverall this wee place has exceeded expectations and we would happily go back any time",
+                "review_photos": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38uiSLL4QpgkhxvypFCYsiOnr2py-t0nj0lKzEaWxF4BCtf4b80P9YQFnXiCiZUBcJ7U4cFX1I1T7tS_uPct8sSxKq5ilQvZy6zCDMfAlM2nbg3khV14Or6mKgNLaOdovae0mh_Dq-iOTIc",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38tZ7UKftPeXnJunbecTqObwPuYcZ-EetnLg-AjuD-nExuQQiGXlSSqooYKT6nQz-eF98ii3_jkzO3zyrjuWsXkUMAUJ5zeGgiIrKMztdqjK3SyGRoK-LI-BJAMW-1--DqnVx-FF28_qYgmW"
+                ],
+                "business_response_text": null,
+                "review_services": {
+                    "Meal type": "Brunch",
+                    "Price per person": "£20–30",
+                    "Food": 5,
+                    "Service": 5,
+                    "Atmosphere": 5,
+                    "Reservation": "Varies by time / day",
+                    "Wait time": "30-60 min",
+                    "Recommendation for vegetarians": "Highly recommend",
+                    "Dietary restrictions": null,
+                    "Parking space": "Plenty of parking"
+                },
+                "translations": {
+                    "en": "We called in for an impromptu wee brunch after seeing lots of great recommendations on the gluten free forums and my oh my we were not disappointed!!!  First of all the Gluten free menu was SO BIG!! so much choice!! I ordered eggs Benedict on avocado toast, And it was unreal!!! So so so good the bread did not taste like the normal gf bread you get!  I could eat it every day!\n\nMy partner got the pancakes and the look stunning served with berries and maple syrup, I genuinely thought he was gunna lick the plate clean!!!!  He said they were so moreish!!\n\nThe staff were lovely, our waiter was called Paul I think, he was funny friendly and very attentive and informative, he had great knowledge of the menu items and was very helpful.\n\nOverall this wee place has exceeded expectations and we would happily go back any time"
+                },
+                "review_rate": 5,
+                "review_cursor": "CAESY0NBRVFBeHBFUTJwRlNVRlNTWEJEWjI5QlVEZGZURUZEUjBaZlgxOWZSV2hCVEhCQ05sSk9YelZ0UTIxRE5YQTViMEZCUVVGQlIyZHVPVEpRVVVOYUxUQXhORXRWV1VGRFNVRQ=="
+            },
+            {
+                "user_name": "Karen Wadman",
+                "user_total_reviews": 12,
+                "user_total_photos": 45,
+                "user_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWO-wovfgqq5u5OI6po8JOs3Zt9SbrUO_-ZfAqarjUqLRqm05n_og=s120-c-rp-mo-ba2-br100",
+                "user_link": "https://www.google.com/maps/contrib/112389713403529229764?hl=en",
+                "iso_date": "2025-07-08 18:54:11",
+                "iso_date_timestamp": 1752000850697777,
+                "iso_date_of_last_edit": "2025-07-08 19:04:32",
+                "iso_date_of_last_edit_timestamp": 1752001471567533,
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210NVVuTmlWR1pyV1daRlFWcHBNVzlGUWpWbU5XYxAB",
+                "review_time": "4 months ago",
+                "review_timestamp": 1752001471567533,
+                "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT210NVVuTmlWR1pyV1daRlFWcHBNVzlGUWpWbU5XYxAB!2m1!1s0x0:0x31aec03c8bd7671d!3m1!1s2@1:CAIQACodChtycF9oOmt5UnNiVGZrWWZFQVppMW9FQjVmNWc%7C0cQLizWoy3S%7C?hl=en",
+                "review_text": "Lovely little cafe, with seating inside and out. Table service, a delightful place to sit and watch the world... with the most delicious of scones.",
+                "review_photos": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vkyrrPr8P3XV8P3tNARjQ-K3Tz9XJyqUK7P3q45Jy2x1iSrksxFbJ3jCZrGCxElb3BA8u_kTZ20BsjC848MsX4JDKpTZVDsKC0W0q6pH0ULyLMceKiZZe3lSMHJdpmkjH6TV-pzhBe9gs",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38sHji8LhZez9JW6X0g1VIdB3AJmnZyBnE9i2Y95PX1YP3OCJoHg2FrevNrVZEBHPlHdgl_iQpvmlZRwGOiHJo3xi3YWARyfSnBqohCtjS_QcM0UjHuvdxO6fchQN28zPK_cqgPwgikIEiaO"
+                ],
+                "business_response_text": null,
+                "review_services": {
+                    "Meal type": "Other",
+                    "Price per person": "£1–10",
+                    "Food": 5,
+                    "Service": 5,
+                    "Atmosphere": 5,
+                    "Wait time": "No wait",
+                    "Seating type": "Indoor dining area, Outdoor patio / terrace",
+                    "Parking space": "Plenty of parking"
+                },
+                "translations": {
+                    "en": "Lovely little cafe, with seating inside and out. Table service, a delightful place to sit and watch the world... with the most delicious of scones."
+                },
+                "review_rate": 5,
+                "review_cursor": "CAESY0NBRVFCQnBFUTJwRlNVRlNTWEJEWjI5QlVEZGZURUZIZDA5ZlgxOWZSV2hFV1RkME56TXljM2RYWHpNMGIxOXZNRUZCUVVGQlIyZHVPVEpRT0VOaFFsTlVSemRCV1VGRFNVRQ=="
+            },
+            {
+                "user_name": "Stephen Bressi",
+                "user_total_reviews": 286,
+                "user_total_photos": 1662,
+                "user_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUJ9f_BHpuTEbreId-VizaATAd8OeDMURhlP7AHPUsqWHZie4AIWA=s120-c-rp-mo-ba6-br100",
+                "user_link": "https://www.google.com/maps/contrib/100410739666956846223?hl=en",
+                "iso_date": "2025-06-04 20:16:40",
+                "iso_date_timestamp": 1749068200291588,
+                "iso_date_of_last_edit": "2025-06-04 20:16:40",
+                "iso_date_of_last_edit_timestamp": 1749068200291588,
+                "review_id": "ChdDSUhNMG9nS0VQM0Q5ZENuMnNTRTFnRRAB",
+                "review_time": "5 months ago",
+                "review_timestamp": 1749068200291588,
+                "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VQM0Q5ZENuMnNTRTFnRRAB!2m1!1s0x0:0x31aec03c8bd7671d!3m1!1s2@1:CIHM0ogKEP3D9dCn2sSE1gE%7CCgwIqNOCwgYQoI-FiwE%7C?hl=en",
+                "review_text": "Went in for a light lunch after touring St Mary's Abby. This restaurant was recommended by the gift shop clerk.  It is conveniently located beside the car park.  We enjoyed the soup of the day - pepper lentil soup. The soup was served with two rolls and butter. Perfect!  The soup was excellent as was the service, I apprecuate that we were not rushed through even though it was lunch time ane rather busy. Prices were also reasonable. I highly recommend Eden for lunch or just coffee and a pastry.",
+                "review_photos": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38uEQB6hEYksi0OhJ9IXYZ2PkWwO9RH80Bb6Prl8_ugXlrDAnx5FlEXFRwNaAzVcFZWUSpb0FsQudsvSf6sIa5S2kzeyT_jVtG2R3MGGjagi_VWQG2jW1bKZQXR5PyFYbHGM2sHX"
+                ],
+                "business_response_text": null,
+                "review_services": {
+                    "Food": 5,
+                    "Service": 5,
+                    "Atmosphere": 5
+                },
+                "translations": {
+                    "en": "Went in for a light lunch after touring St Mary's Abby. This restaurant was recommended by the gift shop clerk.  It is conveniently located beside the car park.  We enjoyed the soup of the day - pepper lentil soup. The soup was served with two rolls and butter. Perfect!  The soup was excellent as was the service, I apprecuate that we were not rushed through even though it was lunch time ane rather busy. Prices were also reasonable. I highly recommend Eden for lunch or just coffee and a pastry."
+                },
+                "review_rate": 5,
+                "review_cursor": "CAESY0NBRVFCUnBFUTJwRlNVRlNTWEJEWjI5QlVEZGZURUZLWkROZlgxOWZSV2hDVVUxaGFscFZWREpxUm5Cd1NXaHRVVUZCUVVGQlIyZHVPVEpSV1VOaFRVNXdVbkIzV1VGRFNVRQ=="
+            },
+            {
+                "user_name": "Charlotte Alexander",
+                "user_total_reviews": 52,
+                "user_total_photos": 13,
+                "user_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUh5Vt-GTua2PwLpbZ6Z2QFDhnN--7An6Ei9GCLGMLr-gpFNWg=s120-c-rp-mo-ba3-br100",
+                "user_link": "https://www.google.com/maps/contrib/109371546502029601085?hl=en",
+                "iso_date": "2025-05-03 15:15:32",
+                "iso_date_timestamp": 1746285332019827,
+                "iso_date_of_last_edit": "2025-05-03 15:15:32",
+                "iso_date_of_last_edit_timestamp": 1746285332019827,
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZMnJ5YUNBEAE",
+                "review_time": "6 months ago",
+                "review_timestamp": 1746285332019827,
+                "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUNZMnJ5YUNBEAE!2m1!1s0x0:0x31aec03c8bd7671d!3m1!1s2@1:CIHM0ogKEICAgMCY2ryaCA%7CCgsIlObYwAYQuJK6CQ%7C?hl=en",
+                "review_text": "Consistently excellent. They know how to do the basics -like poach an egg beautifully always-but on top of that they do these creative, delicious dishes.\n\nI had feta, roasted red pepper, sweet potato, spinach and chorizo skillet topped with two hens eggs for brunch .\n\nJust wish they opened in the evenings too as the atmosphere always so welcoming and they are truly dog friendly .",
+                "review_photos": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38uwBXWh_NBKaYew9y1MXSQ7w1so8XC1OGiPNsY433ITe-HS5lkBrfnnVyVV6GQAyGoHbZuaCr1_RSfzHhiLe1CmsOb1mHvOw3-gnK7TqD2b8Jg6XhEIVSt3lO2vkFPEHrhQhW9WDg"
+                ],
+                "business_response_text": null,
+                "review_services": {
+                    "Food": 5,
+                    "Service": 5,
+                    "Atmosphere": 5
+                },
+                "translations": {
+                    "en": "Consistently excellent. They know how to do the basics -like poach an egg beautifully always-but on top of that they do these creative, delicious dishes.\n\nI had feta, roasted red pepper, sweet potato, spinach and chorizo skillet topped with two hens eggs for brunch .\n\nJust wish they opened in the evenings too as the atmosphere always so welcoming and they are truly dog friendly ."
+                },
+                "review_rate": 5,
+                "review_cursor": "CAESY0NBRVFCaHBFUTJwRlNVRlNTWEJEWjI5QlVEZGZURUZLT0dGZlgxOWZSV2hETnpkRFMxSXhZbUZMVkVwS1MxTlFSVUZCUVVGQlIyZHVPVEpSWTBOaFYyeEpaV04zV1VGRFNVRQ=="
+            },
+            {
+                "user_name": "k martin",
+                "user_total_reviews": 2,
+                "user_total_photos": 0,
+                "user_avatar": "https://lh3.googleusercontent.com/a/ACg8ocKR-SwNAhxhS3SHRFvl7rjAH9F1JSrtyh5S0rlebRs0kQi7kw=s120-c-rp-mo-br100",
+                "user_link": "https://www.google.com/maps/contrib/111274781244026241650?hl=en",
+                "iso_date": "2025-09-20 17:32:06",
+                "iso_date_timestamp": 1758389525824561,
+                "iso_date_of_last_edit": "2025-09-20 17:32:06",
+                "iso_date_of_last_edit_timestamp": 1758389525824561,
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFd1YweExObk5LUkROVVZtNTBjbWR5Um1sU2JsRRAB",
+                "review_time": "a month ago",
+                "review_timestamp": 1758389525824561,
+                "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tFd1YweExObk5LUkROVVZtNTBjbWR5Um1sU2JsRRAB!2m1!1s0x0:0x31aec03c8bd7671d!3m1!1s2@1:CAIQACodChtycF9oOkEwV0xLNnNKRDNUVm50cmdyRmlSblE%7C0cniJKl8S3i%7C?hl=en",
+                "review_text": "I feel I can’t give this more stars purely as I’d be reluctant to go back due to menu changes and over the top pricing. Food is good but the pricing had gone up on the last menu update, myself and my family feel it is now over priced. A bacon and egg roll £8.50 - too much. We regularly go out for breakfast every weekend as a family group - which is 3-7 people, when each order is on average including a hot drink £12-16, we won’t be bs k now. This pricing is out with most peoples weekly budget and there are other options available within the area. Melrose is a tourist town but through the winter it’s mainly locals that keep business going, something to note.",
+                "review_photos": [],
+                "business_response_text": null,
+                "review_services": {
+                    "Food": 3,
+                    "Service": 4,
+                    "Atmosphere": 3
+                },
+                "translations": {
+                    "en": "I feel I can’t give this more stars purely as I’d be reluctant to go back due to menu changes and over the top pricing. Food is good but the pricing had gone up on the last menu update, myself and my family feel it is now over priced. A bacon and egg roll £8.50 - too much. We regularly go out for breakfast every weekend as a family group - which is 3-7 people, when each order is on average including a hot drink £12-16, we won’t be bs k now. This pricing is out with most peoples weekly budget and there are other options available within the area. Melrose is a tourist town but through the winter it’s mainly locals that keep business going, something to note."
+                },
+                "review_rate": 3,
+                "review_cursor": "CAESY0NBRVFCeHBFUTJwRlNVRlNTWEJEWjI5QlVEZGZURUZSWW1KZlgxOWZSV2hDYVZaamFUSldWMWh4WVUxelh6RlVTVUZCUVVGQlIyZHVPVEpTWTBOYWNHWlNTWEk0V1VGRFNVRQ=="
+            },
+            {
+                "user_name": "Ian Ramsey",
+                "user_total_reviews": 1,
+                "user_total_photos": 0,
+                "user_avatar": "https://lh3.googleusercontent.com/a/ACg8ocJBvlGwGh8lDGyABAaJ08G7Gvk4H26QYGWfjM2rdWmGwHb38w=s120-c-rp-mo-br100",
+                "user_link": "https://www.google.com/maps/contrib/105733310703677847691?hl=en",
+                "iso_date": "2025-07-22 16:41:29",
+                "iso_date_timestamp": 1753202488661333,
+                "iso_date_of_last_edit": "2025-07-22 16:41:29",
+                "iso_date_of_last_edit_timestamp": 1753202488661333,
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1bmEzbEZja05PU0VGaVgwTk1TVEJFZW5kdGNVRRAB",
+                "review_time": "3 months ago",
+                "review_timestamp": 1753202488661333,
+                "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1bmEzbEZja05PU0VGaVgwTk1TVEJFZW5kdGNVRRAB!2m1!1s0x0:0x31aec03c8bd7671d!3m1!1s2@1:CAIQACodChtycF9oOk5na3lFckNOSEFiX0NMSTBEendtcUE%7C0cUvwsbPmNF%7C?hl=en",
+                "review_text": "Was greeted passing by a guy telling us they do a \"cracking breakfast\" and should pop in  and he wasn't wrong !!! The waiter (Paul) sat us to a lovely table outside and was very attentive. Full of laughs and banter, had me and my partner in stitches. Breakfast came very quickly, beautifully presented and tasted brilliant !!! Paul was fantastic and the chef Becca, who Paul said cooked our meal, dime a dozen !!! Will definitely be back !!!",
+                "review_photos": [],
+                "business_response_text": null,
+                "review_services": {
+                    "Meal type": "Breakfast",
+                    "Price per person": "£20–30",
+                    "Food": 5,
+                    "Service": 5,
+                    "Atmosphere": 5,
+                    "Noise level": "Moderate noise",
+                    "Group size": "2 people",
+                    "Recommendation for vegetarians": "Not sure",
+                    "Parking space": "Somewhat difficult to find parking"
+                },
+                "translations": {
+                    "en": "Was greeted passing by a guy telling us they do a \"cracking breakfast\" and should pop in  and he wasn't wrong !!! The waiter (Paul) sat us to a lovely table outside and was very attentive. Full of laughs and banter, had me and my partner in stitches. Breakfast came very quickly, beautifully presented and tasted brilliant !!! Paul was fantastic and the chef Becca, who Paul said cooked our meal, dime a dozen !!! Will definitely be back !!!"
+                },
+                "review_rate": 5,
+                "review_cursor": "CAESY0NBRVFDQnBFUTJwRlNVRlNTWEJEWjI5QlVEZGZURUZUTkRsZlgxOWZSV2hDWkVsSVJ6TnJZME5TZURSR1MxSXdVVUZCUVVGQlIyZHVPVEpTTUVOYU9IbzVRM0Z2V1VGRFNVRQ=="
+            },
+            {
+                "user_name": "Diana",
+                "user_total_reviews": 227,
+                "user_total_photos": 333,
+                "user_avatar": "https://lh3.googleusercontent.com/a/ACg8ocInhFyBmZAEXKOcsO2rg1JcKUi8lvInkby1xoasSFdTnamuOny2=s120-c-rp-mo-ba5-br100",
+                "user_link": "https://www.google.com/maps/contrib/102214217589534608420?hl=en",
+                "iso_date": "2023-11-25 17:22:59",
+                "iso_date_timestamp": 1700932978538468,
+                "iso_date_of_last_edit": "2023-11-25 17:22:59",
+                "iso_date_of_last_edit_timestamp": 1700932978538468,
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsdzlHa2Z3EAE",
+                "review_time": "a year ago",
+                "review_timestamp": 1700932978538468,
+                "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNsdzlHa2Z3EAE!2m1!1s0x0:0x31aec03c8bd7671d!3m1!1s2@1:CIHM0ogKEICAgIClw9Gkfw%7CCgwI8tqIqwYQoL3hgAI%7C?hl=en",
+                "review_text": "My husband and I stopped in here for a quick quick bite to eat while on a tour. I wish we had more time to sit relax and enjoy because this place has a wonderful ambience and absolutely fantastic service. Of course the sandwiches were tasty as well. Thank you!",
+                "review_photos": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38smiPWisOBn31CUToIA6od75b8rW4WoUmpTDoqItr7LhfFxal9yZPQW6uNrJUmfaUUQhdcVCnigEOB-EFxdFxmDFbEGAlTqQInk60lCBdI2LtCbiDGIwReob1BuhYj3TBX_a-1g",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38tgnrQNQrSEwS1uryKroudmdhRty9P5qqVINkO-E67ZfZQzv2bMKwpqeDxlIC6lkjqPh6UxEyBsnT1OIln0XcP8GvbpULIv12PEoNfG9m3CXRXd9iFx2JGaUasUlQ9gy05AT1o6",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38uwynjL7hGMMcVakwGFVHIRRx8ef8wFB4s01qJPEV-K4wcOL7cOxn9KV-AtfWfkq3h29PnhIWf7w9q3-KmluK3F-5vGeTx4LUy0Jb_SeeSikqaDyBh7GjWVEcN7UU5yLFz9XuY_KQ",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38ugF3HIShgafQvxlMotNTtQDvwvSneZ7Wxtwr-PegRh-BhatuZh8MG1gHgdRI01KOAfFLq9dCasA5i9rVTfetntSQ6RZryY7DzxgXbaWA0NCrxvNNFf3j7136NGginjwUQfzdc"
+                ],
+                "business_response_text": null,
+                "review_services": {
+                    "Service": 5,
+                    "Meal type": "Lunch",
+                    "Price per person": "£20–30",
+                    "Food": 5,
+                    "Atmosphere": 5
+                },
+                "translations": {
+                    "en": "My husband and I stopped in here for a quick quick bite to eat while on a tour. I wish we had more time to sit relax and enjoy because this place has a wonderful ambience and absolutely fantastic service. Of course the sandwiches were tasty as well. Thank you!"
+                },
+                "review_rate": 5,
+                "review_cursor": "CAESY0NBRVFDUnBFUTJwRlNVRlNTWEJEWjI5QlVEZGZURUZhVDJ0ZlgxOWZSV2hEUW5oMGIxUnNaVVpZVGxGTlFuSkpRVUZCUVVGQlIyZHVPVEpUTUVOalgyZ3RaVXBWV1VGRFNVRQ=="
+            },
+            {
+                "user_name": "Sabine",
+                "user_total_reviews": 55,
+                "user_total_photos": 33,
+                "user_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWhJJP0u_Uj9QcpZwXThmxAWpiL2ZUF3A70VWW_g9W2B7mlsaL5ZA=s120-c-rp-mo-ba3-br100",
+                "user_link": "https://www.google.com/maps/contrib/111461283329370076803?hl=en",
+                "iso_date": "2025-10-03 17:30:15",
+                "iso_date_timestamp": 1759512614762206,
+                "iso_date_of_last_edit": "2025-10-03 17:30:15",
+                "iso_date_of_last_edit_timestamp": 1759512614762206,
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wbU1reDBNMlk0V1c1T1lYcG5kbTV2VWtOSWFHYxAB",
+                "review_time": "a month ago",
+                "review_timestamp": 1759512614762206,
+                "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21wbU1reDBNMlk0V1c1T1lYcG5kbTV2VWtOSWFHYxAB!2m1!1s0x0:0x31aec03c8bd7671d!3m1!1s2@1:CAIQACodChtycF9oOmpmMkx0M2Y4WW5OYXpndm5vUkNIaGc%7C0cs-VahQ_dr%7C?hl=en",
+                "review_text": "You can't imagine how wonderful it is for someone who has to eat vegan and gluten-free to be able to have more than one dish at once and then enjoy the soup with a gluten-free roll (without egg). Keep up the good work!",
+                "review_photos": [],
+                "business_response_text": null,
+                "review_services": {
+                    "Meal type": "Lunch",
+                    "Price per person": "£10–20",
+                    "Food": 5,
+                    "Service": 5,
+                    "Atmosphere": 4,
+                    "Noise level": "Quiet, easy to talk",
+                    "Wait time": "No wait",
+                    "Recommendation for vegetarians": "Highly recommend",
+                    "Vegetarian offerings": "Not sure",
+                    "Vegetarian options": null,
+                    "Dietary restrictions": null,
+                    "Parking space": "Plenty of parking",
+                    "Parking options": "Paid parking lot"
+                },
+                "translations": {
+                    "en": "You can't imagine how wonderful it is for someone who has to eat vegan and gluten-free to be able to have more than one dish at once and then enjoy the soup with a gluten-free roll (without egg). Keep up the good work!"
+                },
+                "review_rate": 5,
+                "review_cursor": "CAESY0NBRVFDaHBFUTJwRlNVRlNTWEJEWjI5QlVEZGZURUZpTW5aZlgxOWZSV2hEV2xObk9YSnFaMkZwZVVzelNGRnZORUZCUVVGQlIyZHVPVEpVVFVOYWJGUm5TMHBWV1VGRFNVRQ=="
+            },
+            {
+                "user_name": "Dominika K",
+                "user_total_reviews": 101,
+                "user_total_photos": 98,
+                "user_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXTlW9KwlCKE-WKIKYQFFikgx4PCVTr4YIrvlpD9GEPOPtmBDU1=s120-c-rp-mo-ba4-br100",
+                "user_link": "https://www.google.com/maps/contrib/102257878231058800761?hl=en",
+                "iso_date": "2024-09-03 15:10:46",
+                "iso_date_timestamp": 1725376245507358,
+                "iso_date_of_last_edit": "2024-09-03 15:10:46",
+                "iso_date_of_last_edit_timestamp": 1725376245507358,
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIeXBUbWZ3EAE",
+                "review_time": "a year ago",
+                "review_timestamp": 1725376245507358,
+                "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNIeXBUbWZ3EAE!2m1!1s0x0:0x31aec03c8bd7671d!3m1!1s2@1:CIHM0ogKEICAgICHypTmfw%7CCgwI9c3ctgYQsNb28QE%7C?hl=en",
+                "review_text": "The café has a lovely garden where you can sit and enjoy the sun. The Scottish salmon was tasty and unique. However, the ciabatta sandwich with mushrooms is definitely overpriced.",
+                "review_photos": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38s_V2eD0i1pZN_uWVxnfcqkH6jGL4aUE816eq_yg0gcwDfk_6Sd1q2GuFi4rFoaSOfTXlj26GLPS6KQD-6ArYzdzySIZ16dLMkSTwGVI2fXhwT0Z8iCED-SpOsLRvrg4yXgh4r9",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38t0H1JeYT4Uvdc932UXy8d_pAyfs-n2t9mA92pWPHgA-1oox0yfGLO6ks7eKD2UyulAK62UZIPtsLy49ON_abW3LuQvd9jR1ZBwvELfNosqiLgaH2BH_UAS_bnVIpfE8StUVRPB"
+                ],
+                "business_response_text": "Thank you so much for your review! We’re delighted to hear that you enjoyed our Scottish salmon and the ambiance of our outdoor seating. We genuinely believe that our pricing reflects the high quality of our ingredients and the care we put into our dishes. We appreciate your feedback on the ciabatta and will take it into consideration as we continually strive to offer the best value and experience to our customers. We hope we get the opportunity to serve you again",
+                "review_services": {
+                    "Service": "Dine in",
+                    "Meal type": "Lunch",
+                    "Price per person": "£10–20"
+                },
+                "owner_answer": {
+                    "date": "a year ago",
+                    "text": {
+                        "en": "Thank you so much for your review! We’re delighted to hear that you enjoyed our Scottish salmon and the ambiance of our outdoor seating. We genuinely believe that our pricing reflects the high quality of our ingredients and the care we put into our dishes. We appreciate your feedback on the ciabatta and will take it into consideration as we continually strive to offer the best value and experience to our customers. We hope we get the opportunity to serve you again",
+                        "": null
+                    }
+                },
+                "translations": {
+                    "en": "The café has a lovely garden where you can sit and enjoy the sun. The Scottish salmon was tasty and unique. However, the ciabatta sandwich with mushrooms is definitely overpriced."
+                },
+                "review_rate": 4,
+                "review_cursor": "CAESY0NBRVFDeHBFUTJwRlNVRlNTWEJEWjI5QlVEZGZURUZxVGpOZlgxOWZSV2hDVlhveWFHcDRObGh5TkV0d1pIbEJjMEZCUVVGQlIyZHVPVEpWVlVOaWEyVlFNRkIzV1VGRFNVRQ=="
+            },
+            {
+                "user_name": "Mark B",
+                "user_total_reviews": 69,
+                "user_total_photos": 281,
+                "user_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVTP9sFIqbeDeuzoFYzs--BaWPxkFmHQ2dGJq12Ow2hWy7u9YE=s120-c-rp-mo-ba4-br100",
+                "user_link": "https://www.google.com/maps/contrib/117422102705317471795?hl=en",
+                "iso_date": "2024-10-21 08:36:44",
+                "iso_date_timestamp": 1729499803969780,
+                "iso_date_of_last_edit": "2024-10-21 08:36:44",
+                "iso_date_of_last_edit_timestamp": 1729499803969780,
+                "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYeDdQLTJnRRAB",
+                "review_time": "a year ago",
+                "review_timestamp": 1729499803969780,
+                "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNYeDdQLTJnRRAB!2m1!1s0x0:0x31aec03c8bd7671d!3m1!1s2@1:CIHM0ogKEICAgICXx7P-2gE%7CCgwIm6XYuAYQoNa2zgM%7C?hl=en",
+                "review_text": "A delicious haggis, cheese and mushroom ciabatta and latte enjoyed in here, with views across to the Abbey and close to the nearby Priorwood gardens. Well worth a stop!",
+                "review_photos": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vA4C4C-ty3CEr-NVVrXqEEeMpNdidBkqQFiCoQlYcyrpn67tEiLyqDqvt9OSjQhUf3kaDr1jYEsYdrVsrUPjzvzKhNZTFkPeJo7-F4b1nMQxKdN_DCeJhauu8--Scy28Ij8t7I",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38snscx6uTVAKnXwCoICV1I8PMoAiyketHy3A7gieaWmJwwdx4ng5RAZ_9rOGEHOjYQhKVUe9ndRoGNoEp4wR8Q8Rs6dykfTVLWIgXovtv2qqWO2YZBu1Jt3fjnwckSESUr79EcUBg"
+                ],
+                "business_response_text": "Hi Mark, thank you for your kind words! We hope you visit us again soon!",
+                "review_services": {
+                    "Service": 5,
+                    "Meal type": "Lunch",
+                    "Price per person": "£10–20",
+                    "Food": 5,
+                    "Atmosphere": 5,
+                    "Recommended dishes": "Ciabatta"
+                },
+                "owner_answer": {
+                    "date": "a year ago",
+                    "text": {
+                        "en": "Hi Mark, thank you for your kind words! We hope you visit us again soon!",
+                        "": null
+                    }
+                },
+                "translations": {
+                    "en": "A delicious haggis, cheese and mushroom ciabatta and latte enjoyed in here, with views across to the Abbey and close to the nearby Priorwood gardens. Well worth a stop!"
+                },
+                "review_rate": 4,
+                "review_cursor": "CAESY0NBRVFEQnBFUTJwRlNVRlNTWEJEWjI5QlVEZGZURUZ0Vkd0ZlgxOWZSV2hDWDJWbmRrdDRVR3RpYlVoNWFsVlBTVUZCUVVGQlIyZHVPVEpWTUVOaVZraElWSEkwV1VGRFNVRQ=="
+            },
+            {
+                "user_name": "Jason Grainger",
+                "user_total_reviews": 67,
+                "user_total_photos": 121,
+                "user_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUB9cocO_w0SicIvVb5gAGx-DT0MGphnVOaoxlIc2xBwT_ToKGp=s120-c-rp-mo-ba4-br100",
+                "user_link": "https://www.google.com/maps/contrib/100515204572960922820?hl=en",
+                "iso_date": "2023-11-11 18:37:03",
+                "iso_date_timestamp": 1699727822804036,
+                "iso_date_of_last_edit": "2023-12-02 21:43:00",
+                "iso_date_of_last_edit_timestamp": 1701553380137559,
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGejZlb1hnEAE",
+                "review_time": "Edited a year ago",
+                "review_timestamp": 1701553380137559,
+                "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURGejZlb1hnEAE!2m1!1s0x0:0x31aec03c8bd7671d!3m1!1s2@1:CIHM0ogKEICAgIDFz6eoXg%7CCgsI5MmuqwYQ2PfLQQ%7C?hl=en",
+                "review_text": "Paid Eden coffee House a visit after climbing the Eildon hills. Arrived at the cafe just before 11:30am and found that breakfast options were still available. The Eden (Scottish Breakfast) is recommended. Vegetarian options also available. The cafe also serves scones, cakes and other breakfast options as well as main meals later in the day. Hot drinks with the breakfasts but a variety of cold drinks are also available, along with a small selection of alcoholic drinks.\nDogs are welcome in the cafe - There were  couple of dogs when we arrived and also child friendly 👍",
+                "review_photos": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38t_WYzTuHDhcsIgVlkfrR_SLxzPPhBqpmgPqPiiKsaJ-zd72Ubj7b53RL08hIq7U8asKJfu1h9miqTAZ3_5XpvZcFUELXypSQWSYJz_L4V2NkzJB-z-6_crM_cW-PwRsU8FySjqcg",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38sEci1xaG9feCQJxO69gnL2UZ6DUxzDjvUPfmJhJ_WAu34n5h5G4EokdEioq1OTALlmTGPXDUPLy_zouwSYQPI3K9mgTgPeJ-e0cYI76eZtt6J03O2-uDvg3IKItw_EKRAf4Hx6",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38sE7OZbbyS2mGKlduUe-Ktfwg_jqwQpv_B7I3erSxmDdSoeRY2vH2wbB4WmegpbFtssZE5v1JkR43GR0h3XjyOP9MH8gzT0KnUJ6U1UCpiJQmPjifxzInb9hPW50oA3fBQPPSE"
+                ],
+                "business_response_text": null,
+                "review_services": {
+                    "Service": 4,
+                    "Meal type": "Breakfast",
+                    "Price per person": "£10–20",
+                    "Food": 4,
+                    "Atmosphere": 4,
+                    "Recommended dishes": "Scottish Breakfast Plate",
+                    "Recommendation for vegetarians": "Highly recommend",
+                    "Vegetarian offerings": "Clearly labeled vegetarian dishes",
+                    "Vegetarian options": null,
+                    "Parking space": "Plenty of parking",
+                    "Parking options": "Paid parking lot",
+                    "Parking": null,
+                    "Kid-friendliness": null
+                },
+                "translations": {
+                    "en": "Paid Eden coffee House a visit after climbing the Eildon hills. Arrived at the cafe just before 11:30am and found that breakfast options were still available. The Eden (Scottish Breakfast) is recommended. Vegetarian options also available. The cafe also serves scones, cakes and other breakfast options as well as main meals later in the day. Hot drinks with the breakfasts but a variety of cold drinks are also available, along with a small selection of alcoholic drinks.\nDogs are welcome in the cafe - There were  couple of dogs when we arrived and also child friendly 👍"
+                },
+                "review_rate": 4,
+                "review_cursor": "CAESY0NBRVFEUnBFUTJwRlNVRlNTWEJEWjI5QlVEZGZURUZ5Wm1OZlgxOWZSV2hFWjI5S056ZEVNRXBxZDNKclZqRnJXVUZCUVVGQlIyZHVPVEpXYTBOak9VOUVOVTVaV1VGRFNVRQ=="
+            },
+            {
+                "user_name": "M H (Crypticat)",
+                "user_total_reviews": 27,
+                "user_total_photos": 3,
+                "user_avatar": "https://lh3.googleusercontent.com/a/ACg8ocKhtEtbGJ_0vJLLyNg044ku2JGAp_kgwuLJQYWGVVxh0-LF5g=s120-c-rp-mo-ba2-br100",
+                "user_link": "https://www.google.com/maps/contrib/108852689546739808225?hl=en",
+                "iso_date": "2025-08-06 17:35:57",
+                "iso_date_timestamp": 1754501756948586,
+                "iso_date_of_last_edit": "2025-08-06 17:35:57",
+                "iso_date_of_last_edit_timestamp": 1754501756948586,
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xNGFYRnFSM0p2WkVac1FrcHdSRzF5TXpsaE5XYxAB",
+                "review_time": "3 months ago",
+                "review_timestamp": 1754501756948586,
+                "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xNGFYRnFSM0p2WkVac1FrcHdSRzF5TXpsaE5XYxAB!2m1!1s0x0:0x31aec03c8bd7671d!3m1!1s2@1:CAIQACodChtycF9oOm14aXFqR3JvZEZsQkpwRG1yMzlhNWc%7C0cZt8wsXZSP%7C?hl=en",
+                "review_text": "It's a cute little caffee with food that varies from not good to very good depending on what you get. This time I was very dissapointed with the trout salad. Pak choi RAW? Anyways the manager himself seems like he hates customers and is always in a bad mood. The other employees seem tense around him but are nicer.\nOverall I would not recommend sadly.",
+                "review_photos": [],
+                "business_response_text": null,
+                "review_services": {
+                    "Meal type": "Lunch",
+                    "Price per person": "£10–20",
+                    "Food": 3,
+                    "Service": 2,
+                    "Atmosphere": 3,
+                    "Wait time": "No wait",
+                    "Parking space": "Somewhat difficult to find parking",
+                    "Parking options": "Paid parking lot, Free street parking"
+                },
+                "translations": {
+                    "en": "It's a cute little caffee with food that varies from not good to very good depending on what you get. This time I was very dissapointed with the trout salad. Pak choi RAW? Anyways the manager himself seems like he hates customers and is always in a bad mood. The other employees seem tense around him but are nicer.\nOverall I would not recommend sadly."
+                },
+                "review_rate": 3,
+                "review_cursor": "CAESY0NBRVFEaHBFUTJwRlNVRlNTWEJEWjI5QlVEZGZURUZ5YUhWZlgxOWZSV2hFTjFsRmFYZHVZblpMTUdvMGFERnlVVUZCUVVGQlIyZHVPVEpXYTBOYU15MU1lQzF6V1VGRFNVRQ=="
+            },
+            {
+                "user_name": "Phil Lake",
+                "user_total_reviews": 87,
+                "user_total_photos": 89,
+                "user_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWsm9UgDj6J4ucDZXOFcOXGbZHwUxdq9TjvcRCdjl1cmJEaiCaZbg=s120-c-rp-mo-ba4-br100",
+                "user_link": "https://www.google.com/maps/contrib/114746636598606410425?hl=en",
+                "iso_date": "2025-06-30 14:01:29",
+                "iso_date_timestamp": 1751292088999027,
+                "iso_date_of_last_edit": "2025-07-30 16:54:23",
+                "iso_date_of_last_edit_timestamp": 1753894462869183,
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kNWJFOWZVVlZOTWtobWIwRlFUbXN4UzNNM2NtYxAB",
+                "review_time": "Edited 3 months ago",
+                "review_timestamp": 1753894462869183,
+                "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25kNWJFOWZVVlZOTWtobWIwRlFUbXN4UzNNM2NtYxAB!2m1!1s0x0:0x31aec03c8bd7671d!3m1!1s2@1:CAIQACodChtycF9oOnd5bE9fUVVNMkhmb0FQTmsxS3M3cmc%7C0cXZsynnexc%7C?hl=en",
+                "review_text": "Great spot to sit outside if you get the chance. Coffee was excellent, as was the table service. Space to lean bikes up nearby. Within view of the Abbey. All round lovely spot",
+                "review_photos": [],
+                "business_response_text": null,
+                "review_services": {
+                    "Meal type": "Brunch",
+                    "Price per person": "£10–20",
+                    "Food": 5,
+                    "Service": 5,
+                    "Atmosphere": 5,
+                    "Noise level": "Very quiet",
+                    "Group size": "3-4 people"
+                },
+                "translations": {
+                    "en": "Great spot to sit outside if you get the chance. Coffee was excellent, as was the table service. Space to lean bikes up nearby. Within view of the Abbey. All round lovely spot"
+                },
+                "review_rate": 5,
+                "review_cursor": "CAESY0NBRVFEeHBFUTJwRlNVRlNTWEJEWjI5QlVEZGZURUZ5ZFVSZlgxOWZSV2hCTFhacVRHaGpNVFp4ZG5KNWJuaHBTVUZCUVVGQlIyZHVPVEpXYjBOYU5rOHRWMjF2V1VGRFNVRQ=="
+            },
+            {
+                "user_name": "John Webb",
+                "user_total_reviews": 84,
+                "user_total_photos": 73,
+                "user_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUwbm9ngT5a1EwFADjUKVfjvbUXUBJJj51XfBwwN2cc5WX8CJxDGg=s120-c-rp-mo-ba4-br100",
+                "user_link": "https://www.google.com/maps/contrib/101361607496170427969?hl=en",
+                "iso_date": "2025-08-25 20:42:24",
+                "iso_date_timestamp": 1756154544338268,
+                "iso_date_of_last_edit": "2025-08-25 20:42:24",
+                "iso_date_of_last_edit_timestamp": 1756154544338268,
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213d2IwWm1kbWhRVFVWcGREZGxVRTFyYVdaWFJWRRAB",
+                "review_time": "2 months ago",
+                "review_timestamp": 1756154544338268,
+                "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT213d2IwWm1kbWhRVFVWcGREZGxVRTFyYVdaWFJWRRAB!2m1!1s0x0:0x31aec03c8bd7671d!3m1!1s2@1:CAIQACodChtycF9oOmwwb0ZmdmhQTUVpdDdlUE1raWZXRVE%7C0cfBekJ9O5O%7C?hl=en",
+                "review_text": "Another great cafe, not overpriced despite the fact it's in a prime location. So good in fact, my 14 year old grandson asked to go back while we were holidaying nearby.",
+                "review_photos": [],
+                "business_response_text": null,
+                "review_services": {
+                    "Meal type": "Lunch",
+                    "Food": 5,
+                    "Service": 5,
+                    "Atmosphere": 5
+                },
+                "translations": {
+                    "en": "Another great cafe, not overpriced despite the fact it's in a prime location. So good in fact, my 14 year old grandson asked to go back while we were holidaying nearby."
+                },
+                "review_rate": 5,
+                "review_cursor": "CAESY0NBRVFFQnBFUTJwRlNVRlNTWEJEWjI5QlVEZGZURUZ6Y0U1ZlgxOWZSV2hEYkd3M1ZHczJjakpaUTA1UGNWUlpSVUZCUVVGQlIyZHVPVEpXZDBOYWVEQkpVSGt3V1VGRFNVRQ=="
+            },
+            {
+                "user_name": "Philip Chamberlin",
+                "user_total_reviews": 59,
+                "user_total_photos": 4,
+                "user_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWK-zq4Bb_RLuw1pKXUUDh69kjorNscvnClXzmkErAW5iVGWif2=s120-c-rp-mo-ba4-br100",
+                "user_link": "https://www.google.com/maps/contrib/109881031710794255533?hl=en",
+                "iso_date": "2025-09-15 15:51:25",
+                "iso_date_timestamp": 1757951484992756,
+                "iso_date_of_last_edit": "2025-09-15 15:51:25",
+                "iso_date_of_last_edit_timestamp": 1757951484992756,
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWeFEwcHlNSHBaUkVkalgyNU9ZMlpRVDBKM1JVRRAB",
+                "review_time": "2 months ago",
+                "review_timestamp": 1757951484992756,
+                "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xWeFEwcHlNSHBaUkVkalgyNU9ZMlpRVDBKM1JVRRAB!2m1!1s0x0:0x31aec03c8bd7671d!3m1!1s2@1:CAIQACodChtycF9oOlVxQ0pyMHpZREdjX25OY2ZQT0J3RUE%7C0cm2MwvA3BZ%7C?hl=en",
+                "review_text": "Excellent lunches in here, with some unusual options e.g. a beetroot falafel salad, a Cafe Bombon etc.  Its super dog friendly, and service is excellent",
+                "review_photos": [],
+                "business_response_text": null,
+                "review_services": {
+                    "Meal type": "Lunch",
+                    "Price per person": "£10–20",
+                    "Food": 5,
+                    "Service": 5,
+                    "Atmosphere": 5,
+                    "Noise level": "Quiet, easy to talk",
+                    "Group size": "Suitable for all group sizes"
+                },
+                "translations": {
+                    "en": "Excellent lunches in here, with some unusual options e.g. a beetroot falafel salad, a Cafe Bombon etc.  Its super dog friendly, and service is excellent"
+                },
+                "review_rate": 5,
+                "review_cursor": "CAESY0NBRVFFUnBFUTJwRlNVRlNTWEJEWjI5QlVEZGZURUY1VjNWZlgxOWZSV2hFU2tsb1dqVm5hekpMWVZvMFlUbGFORUZCUVVGQlIyZHVPVEpYYjBOYWNraDBSemM0V1VGRFNVRQ=="
+            },
+            {
+                "user_name": "The Mibster",
+                "user_total_reviews": 165,
+                "user_total_photos": 188,
+                "user_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjV_-5zjMbL-TLPJT5VhDzmRLI4QnS-2nOnHZ62Ork_a7pzCwpXR=s120-c-rp-mo-ba4-br100",
+                "user_link": "https://www.google.com/maps/contrib/117754007606003141150?hl=en",
+                "iso_date": "2024-10-21 07:58:42",
+                "iso_date_timestamp": 1729497522040342,
+                "iso_date_of_last_edit": "2024-10-21 07:58:42",
+                "iso_date_of_last_edit_timestamp": 1729497522040342,
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYeC1HQ0JnEAE",
+                "review_time": "a year ago",
+                "review_timestamp": 1729497522040342,
+                "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNYeC1HQ0JnEAE!2m1!1s0x0:0x31aec03c8bd7671d!3m1!1s2@1:CIHM0ogKEICAgICXx-GCBg%7CCgsIspPYuAYQ8KOeEw%7C?hl=en",
+                "review_text": "We ate there three times on a business trip due to our hotel not serving food and what a stroke of luck that was the eden is a jem of a place, food was great I had the Scottish breakfast 1 day and eggs Benedict with haggis and it was to die for great food great team Thank you ⭐⭐⭐⭐⭐",
+                "review_photos": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38uqgqpczWod3B508783xXa7bNOqS_O1XBnIRKqVx8J3d_jEp0VyC2r8CeVR72cE5PwRdjDK7-Yp6drDDLCf-gJoU2OzuLY9WjzMUAO4fn1cuoAK93_h0hM6_vvqy8TyOOfiBkyvIg"
+                ],
+                "business_response_text": "Thank you so much for your lovely review! I will pass on your positive feedback to our team and chefs. I hope you visit us again soon!",
+                "review_services": {
+                    "Service": 5,
+                    "Meal type": "Breakfast",
+                    "Price per person": "£10–20",
+                    "Food": 5,
+                    "Atmosphere": 5,
+                    "Recommended dishes": "Scottish Breakfast Plate"
+                },
+                "owner_answer": {
+                    "date": "a year ago",
+                    "text": {
+                        "en": "Thank you so much for your lovely review! I will pass on your positive feedback to our team and chefs. I hope you visit us again soon!",
+                        "": null
+                    }
+                },
+                "translations": {
+                    "en": "We ate there three times on a business trip due to our hotel not serving food and what a stroke of luck that was the eden is a jem of a place, food was great I had the Scottish breakfast 1 day and eggs Benedict with haggis and it was to die for great food great team Thank you ⭐⭐⭐⭐⭐"
+                },
+                "review_rate": 5,
+                "review_cursor": "CAESY0NBRVFFaHBFUTJwRlNVRlNTWEJEWjI5QlVEZGZURUY1Y25aZlgxOWZSV2hETmpaTVdDMXVYMVJETFVoNFV6ZzVSVUZCUVVGQlIyZHVPVEpYYzBOaVZraHhTVWxqV1VGRFNVRQ=="
+            },
+            {
+                "user_name": "Angela Cliffe",
+                "user_total_reviews": 42,
+                "user_total_photos": 1,
+                "user_avatar": "https://lh3.googleusercontent.com/a/ACg8ocL7dmWz4KUcKL8PhFxrkILMajg2lv5deNB-8oVjBIWmKqpiqA=s120-c-rp-mo-ba3-br100",
+                "user_link": "https://www.google.com/maps/contrib/105970031664512047190?hl=en",
+                "iso_date": "2025-05-20 09:31:48",
+                "iso_date_timestamp": 1747733508086389,
+                "iso_date_of_last_edit": "2025-05-20 09:31:48",
+                "iso_date_of_last_edit_timestamp": 1747733508086389,
+                "review_id": "ChZDSUhNMG9nS0VNT3duY19ULXJ2Z0ZREAE",
+                "review_time": "5 months ago",
+                "review_timestamp": 1747733508086389,
+                "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VNT3duY19ULXJ2Z0ZREAE!2m1!1s0x0:0x31aec03c8bd7671d!3m1!1s2@1:CIHM0ogKEMOwnc_T-rvgFQ%7CCgsIhJixwQYQiOKYKQ%7C?hl=en",
+                "review_text": "All fantastclc. Had the most delicious Ham and salad sandwhich to take away and perfect coffe and giant fruited ❤️ scone. Saw many happy diners but not too packed to be seated. Cater to many needs, even have dog biscuits which impressed me but I don't keep a dog. All team very nice and seem happy. Lovely spot at centre of town by Abbey and car park. Handy place to know.",
+                "review_photos": [],
+                "business_response_text": null,
+                "review_services": {
+                    "Meal type": "Lunch",
+                    "Price per person": "£10–20",
+                    "Food": 5,
+                    "Service": 5,
+                    "Atmosphere": 5
+                },
+                "translations": {
+                    "en": "All fantastclc. Had the most delicious Ham and salad sandwhich to take away and perfect coffe and giant fruited ❤️ scone. Saw many happy diners but not too packed to be seated. Cater to many needs, even have dog biscuits which impressed me but I don't keep a dog. All team very nice and seem happy. Lovely spot at centre of town by Abbey and car park. Handy place to know."
+                },
+                "review_rate": 5,
+                "review_cursor": "CAESY0NBRVFFeHBFUTJwRlNVRlNTWEJEWjI5QlVEZGZURUV3WmtOZlgxOWZSV2hDT0dkT1owNU9XbGN4U2t0R2QyaEpUVUZCUVVGQlIyZHVPVEpYT0VOaFVrd3pSVUZyV1VGRFNVRQ=="
+            },
+            {
+                "user_name": "Kyle Higgins",
+                "user_total_reviews": 62,
+                "user_total_photos": 5,
+                "user_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWEnTVDL-iNiY8J9CxjxJDG9YADa0gkdIlgKaxdN3oNh9QWSr_X=s120-c-rp-mo-ba3-br100",
+                "user_link": "https://www.google.com/maps/contrib/102655497371416364917?hl=en",
+                "iso_date": "2025-08-10 13:18:55",
+                "iso_date_timestamp": 1754831935175554,
+                "iso_date_of_last_edit": "2025-08-10 13:18:55",
+                "iso_date_of_last_edit_timestamp": 1754831935175554,
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsbE1uRmtaR0pyU0RCbFJEQlNPRUZDYUdoVFdtYxAB",
+                "review_time": "3 months ago",
+                "review_timestamp": 1754831935175554,
+                "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsbE1uRmtaR0pyU0RCbFJEQlNPRUZDYUdoVFdtYxAB!2m1!1s0x0:0x31aec03c8bd7671d!3m1!1s2@1:CAIQACodChtycF9oOkllMnFkZGJrSDBlRDBSOEFCaGhTWmc%7C0ca8kz9Sg2a%7C?hl=en",
+                "review_text": "Damn! I had buttermilk pancake, bacon and maple syrup and it was sooo good! All the food they brought out looked incredible, definitely be back. Thanks guys!",
+                "review_photos": [],
+                "business_response_text": null,
+                "review_services": {
+                    "Food": 5,
+                    "Service": 5,
+                    "Atmosphere": 5
+                },
+                "translations": {
+                    "en": "Damn! I had buttermilk pancake, bacon and maple syrup and it was sooo good! All the food they brought out looked incredible, definitely be back. Thanks guys!"
+                },
+                "review_rate": 5,
+                "review_cursor": "CAESY0NBRVFGQnBFUTJwRlNVRlNTWEJEWjI5QlVEZGZURUUwTmpkZlgxOWZSV2hDV0ZvelNVUllhR3R4VEROTmRGVkRaMEZCUVVGQlIyZHVPVEpZYjBOYU1uWmtjVlJuV1VGRFNVRQ=="
+            }
+        ]
+    }
+}
