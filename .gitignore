@@ -1,4 +1,5 @@
 /.vscode
 /raw_data_from_api
 *.zip
+*.json
 reviews.csv
