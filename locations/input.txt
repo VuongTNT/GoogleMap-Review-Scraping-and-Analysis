@@ -1,7 +1,0 @@
-restaurant
-bar
-cafe
-fastfood
-food
-beverage
-noodles
