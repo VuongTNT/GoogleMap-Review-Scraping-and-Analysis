@@ -5,44 +5,24 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.pipeline import Pipeline
 
-import nltk
-from nltk.corpus import stopwords
-from nltk.stem import WordNetLemmatizer
-from nltk.tokenize import word_tokenize
 import pickle
 
 from model import Model
 
 class NaiveBayesClassifier(Model):
     def __init__(self):
-        nltk.download('punkt')
-        nltk.download('stopwords')
-        nltk.download('wordnet')
-        nltk.download('omw-1.4')
-        # pass
+        pass
     
     def load_model(self, model: Pipeline):
         self.model = model
-
-    def advanced_clean(self, text: str) -> str:
-        lemmatizer = WordNetLemmatizer()
-        stop_words = set(stopwords.words('english'))
-        
-        text = re.sub(r'[^a-zA-Z\s]', '', text.lower())
-        tokens = word_tokenize(text)
-        cleaned_tokens = [
-            lemmatizer.lemmatize(token) 
-            for token in tokens 
-            if token not in stop_words and len(token) > 2
-        ]
-        return " ".join(cleaned_tokens)
 
     def grid_search(self, 
         train_df: pd.DataFrame,
         output_path: str = None
         ):
         
-        train_df['cleaned_text'] = train_df['text'].apply(self.advanced_clean)
+        # train_df['rating'] = train_df['rating'].astype(int)
+        
         pipeline = Pipeline([
             ('tfidf', TfidfVectorizer()),
             ('nb', MultinomialNB())
@@ -62,14 +42,13 @@ class NaiveBayesClassifier(Model):
         print(f"Best Params: {grid_search.best_params_}")
                 
         self.model = best_clf
-        if output_path:
+        if output_path is not None:
             pickle.dump(best_clf, open(output_path, 'wb'))
         return best_clf
     
     def predict(self, texts: list) -> list:
-        cleaned_texts = [self.advanced_clean(text) for text in texts]
         if self.model is None:
             raise Exception("Model is none.")
-        predictions = self.model.predict(cleaned_texts)
+        predictions = self.model.predict(texts)
         return predictions
     
