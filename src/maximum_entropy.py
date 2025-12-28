@@ -20,6 +20,8 @@ class MaximumEntropy(Model):
         ):
         self.model = model
         self.vectorizer = vectorizer
+        
+    
     
     def predict(self, texts: list):
         # Vectorize

@@ -16,7 +16,7 @@ class NaiveBayesClassifier(Model):
     def load_model(self, model: Pipeline):
         self.model = model
 
-    def grid_search(self, 
+    def train_model(self, 
         train_df: pd.DataFrame,
         output_path: str = None
         ):
