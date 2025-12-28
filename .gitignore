@@ -4,3 +4,5 @@
 *.json
 /data
 *__pycache__/
+*.docx
+/models

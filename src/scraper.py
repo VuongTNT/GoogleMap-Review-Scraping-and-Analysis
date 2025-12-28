@@ -32,7 +32,7 @@ class Scraper:
         ):
         
         #set up categories
-        if not categories:
+        if categories is None:
             categories = [
                 "restaurant",
                 "bar",
@@ -96,7 +96,7 @@ class Scraper:
         print("✅ Filtered CSV saved as 'data_ids_filtered.csv'")
         
     def get_geo(self, geo_bounds: Dict[str, Dict[str, tuple]] = None) -> tuple:
-        if not geo_bounds:
+        if geo_bounds is None:
             geo_bounds = {
                 "USA": {
                     "latitude": (32, 49),
