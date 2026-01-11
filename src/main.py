@@ -88,7 +88,7 @@ if __name__ == "__main__":
             user_input = input("> ")
             
             if user_input.lower() == '#exit':
-                break
+                sys.exit(0)
             if user_input.lower() == '#eval':
                 print('Evaluate Naive Bayes Classifier:')
                 evaluate_model(nb)
@@ -103,15 +103,16 @@ if __name__ == "__main__":
                 continue
             
             cleaned_input = advanced_clean(user_input)
-            
+                        
             nb_pred = nb.predict([cleaned_input])[0]
+            print(f"Naive Bayes Prediction: Rating {nb_pred}")
+            
             me_pred, me_proba = me.predict([cleaned_input])
             me_pred = me_pred[0]
             me_proba = me_proba[0]
-            svm_pred = svm.predict([cleaned_input])[0]
-            
-            print(f"Naive Bayes Prediction: Rating {nb_pred}")
             print(f"Maximum Entropy Prediction: Rating {me_pred} ({me_proba:.4f} confidence)")
+            
+            svm_pred = svm.predict([cleaned_input])[0]
             print(f"SVM Prediction: Rating {svm_pred}")
         
         
@@ -129,7 +130,7 @@ if __name__ == "__main__":
         # "The purchase was great! I'm completely satisfied.", 
         # "It works fine, I guess. Nothing exciting.", 
         # "A good choice, worth the money.", 
-        # "Below average, slightly disappointed.", 
+        # "Been a while since I visited, and was disappointed. Chicken satay on. Ciabata was dry, looked like pan scrapings of peanut sauce and wilted salad. You've been better but not this time.", 
         # ]
         # demo_reviews_cleaned = [advanced_clean(review) for review in demo_reviews]
         
