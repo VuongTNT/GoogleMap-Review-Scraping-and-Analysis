@@ -1,21 +1,19 @@
-import pickle
+import sys
 import pandas as pd
 import re
-import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
+from sklearn.metrics import classification_report, accuracy_score, confusion_matrix, recall_score, precision_score, f1_score
 
 from maximum_entropy import MaximumEntropy
 from model import Model
 from naive_bayes import NaiveBayesClassifier
 from scraper import Scraper
-from sklearn.metrics import classification_report, accuracy_score, confusion_matrix
+from svm import SVMModel
 
-
-
-reviews_train_df = pd.read_csv('data/reviews_train_cleaned.csv')
-reviews_val_df = pd.read_csv('data/reviews_val_cleaned.csv')
+# reviews_train_df = pd.read_csv('data/reviews_train_cleaned.csv')
+# reviews_val_df = pd.read_csv('data/reviews_val_cleaned.csv')
 reviews_test_df = pd.read_csv('data/reviews_test_cleaned.csv')
 # nltk.download('punkt')
 # nltk.download('stopwords')
@@ -31,10 +29,16 @@ def evaluate_model(model: Model):
     target_names_5class = [f'Rating {r}' for r in unique_ratings]
     
     accuracy = accuracy_score(reviews_test_df['rating'], y_pred)
+    precision = precision_score(reviews_test_df['rating'], y_pred, average='weighted', zero_division=0)
+    recall = recall_score(reviews_test_df['rating'], y_pred, average='weighted', zero_division=0)
+    f1 = f1_score(reviews_test_df['rating'], y_pred, average='weighted', zero_division=0)
     report = classification_report(reviews_test_df['rating'], y_pred, labels=unique_ratings, target_names=target_names_5class, zero_division=0)
     conf_mat = confusion_matrix(reviews_test_df['rating'], y_pred)
     
     print(f"Accuracy: {accuracy:.4f}\n")
+    print(f"Precision: {precision:.4f}\n")
+    print(f"Recall: {recall:.4f}\n")
+    print(f"F1-score: {f1:.4f}\n")
     print("Classification Report:\n", report)
     print("\nConfusion Matrix:\n", conf_mat)
     
@@ -62,14 +66,20 @@ if __name__ == "__main__":
         # scraper.scrape_loc_data(API_KEY, max_loc=5)
         # scraper.extract_reviews()
         
-        me = MaximumEntropy()
-        me.load_model(
-            pickle.load(open('models/me_model.sav', 'rb')),
-            pickle.load(open('models/me_vectorizer.sav', 'rb'))
-            )
-        nb = NaiveBayesClassifier()
-        nb.load_model(pickle.load(open('models/nb_model.sav', 'rb')))
-        
+        try:
+            me = MaximumEntropy.load_model(
+                'models/me_model.sav', 
+                'models/me_vectorizer.sav')
+
+            nb = NaiveBayesClassifier.load_model('models/nb_model.sav')
+            
+            svm = SVMModel.load_model(
+                "models/svm-tfidf-10k.pkl", 
+                "models/tfidf-vectorize-10k.pkl")
+            
+        except FileNotFoundError as e:
+            print(f"File not found: {e.filename}.\nTrain model or download from https://drive.google.com/drive/folders/1nxuMonis8rXSIdpVh_eei8Mu6mrW2CTz")
+            
         print("- Enter a review to analyze sentiment")
         print("- type '#exit' to quit")
         print("- type '#eval' to evaluate models on test set")
@@ -80,11 +90,16 @@ if __name__ == "__main__":
             if user_input.lower() == '#exit':
                 break
             if user_input.lower() == '#eval':
+                print('Evaluate Naive Bayes Classifier:')
+                evaluate_model(nb)
+                
+                print("+" * 20)
                 print('Evaluate Maximum Entropy Classifier:')
                 evaluate_model(me)
                 
-                print('Evaluate Naive Bayes Classifier:')
-                evaluate_model(nb)
+                print("+" * 20)
+                print('Evaluate SVM:')
+                evaluate_model(svm)
                 continue
             
             cleaned_input = advanced_clean(user_input)
@@ -93,9 +108,11 @@ if __name__ == "__main__":
             me_pred, me_proba = me.predict([cleaned_input])
             me_pred = me_pred[0]
             me_proba = me_proba[0]
+            svm_pred = svm.predict([cleaned_input])[0]
             
             print(f"Naive Bayes Prediction: Rating {nb_pred}")
             print(f"Maximum Entropy Prediction: Rating {me_pred} ({me_proba:.4f} confidence)")
+            print(f"SVM Prediction: Rating {svm_pred}")
         
         
         # print('Loaded Maximum Entropy')
@@ -125,4 +142,4 @@ if __name__ == "__main__":
         #     print(f"  Maximum Entropy Prediction: Rating {me_preds[i]} ({me_probas[i]:.4f} confidence)")
         
     except KeyboardInterrupt:
-        pass
+        sys.exit(0)

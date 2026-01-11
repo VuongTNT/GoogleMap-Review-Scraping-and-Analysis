@@ -18,3 +18,12 @@ class SVMModel(Model):
     def __str__(self):
         res = f"SVM-Model[\n   {str(self.svm)},\n   {str(self.vec)}\n]"
         return res
+
+    def load_model(svm_path: str, vectorizer_path: str):
+        print('Loading SVM...')
+        with open(svm_path, 'rb') as f:
+            svm: LinearSVC = load(f)
+        with open(vectorizer_path, 'rb') as f:
+            vectorizer: TfidfVectorizer = load(f)
+        
+        return SVMModel(svm, vectorizer)

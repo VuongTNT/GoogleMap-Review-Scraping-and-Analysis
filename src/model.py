@@ -5,6 +5,3 @@ class Model:
     def predict(self, texts: list) -> list:
         pass
     
-    @abstractmethod
-    def grid_search(self, train_df):
-        pass

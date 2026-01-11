@@ -10,18 +10,17 @@ import pickle
 from model import Model
 
 class NaiveBayesClassifier(Model):
-    def __init__(self):
-        pass
-    
-    def load_model(self, model: Pipeline):
+    def __init__(self, model: Pipeline):
         self.model = model
+    
+    def load_model(model_path: str):
+        print('Loading NB...')
+        return NaiveBayesClassifier(pickle.load(open(model_path, 'rb')))
 
     def train_model(self, 
         train_df: pd.DataFrame,
         output_path: str = None
         ):
-        
-        # train_df['rating'] = train_df['rating'].astype(int)
         
         pipeline = Pipeline([
             ('tfidf', TfidfVectorizer()),
